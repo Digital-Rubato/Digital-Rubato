@@ -9,7 +9,7 @@
   <a href="https://github.com/Digital-Rubato">
     <img src="https://img.shields.io/badge/GitHub-orange?logo=github&logoColor=white&style=for-the-badge" alt="Git Hub"/>
   </a>
-  <a href="https://www.cpkport.com">
+  <a href="https://www.cpkport.com/">
     <img src="https://img.shields.io/badge/Website-green?logo=windowsterminal&logoColor=white&style=for-the-badge" alt="My Website"/>
   </a>
 </div>
@@ -22,7 +22,7 @@
   My name is Collin Kimball.
 </h2>
 <h5 align="center">
-I am currently working towards becoming a Software Engineer.
+I am currently working towards becoming a DevOps/Backend Software Engineer.
 </h5>
 
 <h4 id="certs">
