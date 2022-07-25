@@ -9,7 +9,7 @@
   <a href="https://github.com/Digital-Rubato">
     <img src="https://img.shields.io/badge/GitHub-orange?logo=github&logoColor=white&style=for-the-badge" alt="Git Hub"/>
   </a>
-  <a href="https://cpkport.com">
+  <a href="https://www.cpkport.com">
     <img src="https://img.shields.io/badge/Website-green?logo=windowsterminal&logoColor=white&style=for-the-badge" alt="My Website"/>
   </a>
 </div>
@@ -52,6 +52,7 @@ I am currently working towards becoming a Software Engineer.
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg " title="PHP" alt="PHP" width="40" height=40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
 
