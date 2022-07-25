@@ -1,4 +1,61 @@
-### Hi there 👋
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/collin-kimball-8452151b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linked In"/>
+  </a>
+  <a href="https://codepen.io/digital-rubato">
+    <img src="https://img.shields.io/badge/CodePen-lightgrey?logo=codepen&logoColor=white&style=for-the-badge" alt="Code Pen"/>
+  </a>
+  <a href="https://github.com/Digital-Rubato">
+    <img src="https://img.shields.io/badge/GitHub-orange?logo=github&logoColor=white&style=for-the-badge" alt="Git Hub"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Website-green?logo=windowsterminal&logoColor=white&style=for-the-badge" alt="My Website"/>
+  </a>
+</div>
+
+<h1 id="header" align="center">
+  Hey 👋
+</h1>
+
+<h2 id="intro" align="center">
+  My name is Collin Kimball.
+</h2>
+<h5 align="center">
+I am currently working towards becoming a Software Engineer.
+</h5>
+
+<h4 id="certs">
+📜 Completed Certifications: 
+</h4>
+
+  - Programming Foundations with Javascript, HTML, and CSS through Duke University with Coursera
+
+  - Responsive Web Design through FreeCodeCamp
+
+<h4 id="progress">
+📖 Actively pursuing the following certifications: 
+</h4>
+
+  - Scientific Computing with Python through FreeCodeCamp
+
+  - Java Programming and Software Engineering Fundamentals Specialization through Duke University with Coursera
+
+<h4 id="tools" align="center">
+🔧 Languages and Tools:
+</h4>
+<div align="center">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg " title="PHP" alt="PHP" width="40" height=40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+
+
 
 <!--
 **Digital-Rubato/Digital-Rubato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
