@@ -9,9 +9,11 @@
   <a href="https://github.com/Digital-Rubato">
     <img src="https://img.shields.io/badge/GitHub-orange?logo=github&logoColor=white&style=for-the-badge" alt="Git Hub"/>
   </a>
-  <a href="https://www.cpkport.com/">
+  <!-- its a dead link?
+  <a href="cpkport.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-green?logo=windowsterminal&logoColor=white&style=for-the-badge" alt="My Website"/>
   </a>
+  -->
 </div>
 
 <h1 id="header" align="center">
