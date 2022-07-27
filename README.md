@@ -25,7 +25,7 @@
 </h2>
 <h5 align="center">
 I am currently working towards becoming a DevOps/Backend Software Engineer.
-<a href="https://www.cpkport.com">site</a>
+<a href="www.cpkport.com">site</a>
 </h5>
 <a href="www.cpkport.com">site</a>
 <h4 id="certs">
