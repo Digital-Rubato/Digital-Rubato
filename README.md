@@ -24,7 +24,7 @@
   My name is Collin Kimball.
 </h2>
 <h5 align="center">
-I am currently working towards becoming a DevOps/Backend Software Engineer.
+I am currently working towards becoming a FrontEnd Software Engineer.
 </h5>
 
 <h4 id="certs">
