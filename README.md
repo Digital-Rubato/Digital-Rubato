@@ -38,6 +38,7 @@ I am currently working towards becoming a FrontEnd Software Engineer.
 <h4 id="progress">
 📖 Actively pursuing the following certifications: 
 </h4>
+  - Front End Developer Libraries through FreeCodeCamp
 
   - Scientific Computing with Python through FreeCodeCamp
 
