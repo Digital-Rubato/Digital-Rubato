@@ -31,7 +31,7 @@ I am currently working towards becoming a FrontEnd Software Engineer.
 📜 Completed Certifications: 
 </h4>
 
-  - Programming Foundations with Javascript, HTML, and CSS through Duke University with Coursera
+  - Programming Foundations with Javascript, HTML, and CSS(and with Honors) through Duke University with Coursera
 
   - Responsive Web Design through FreeCodeCamp
 
@@ -40,9 +40,7 @@ I am currently working towards becoming a FrontEnd Software Engineer.
 </h4>
   - Front End Developer Libraries through FreeCodeCamp
 
-  - Scientific Computing with Python through FreeCodeCamp
-
-  - Java Programming and Software Engineering Fundamentals Specialization through Duke University with Coursera
+  - Front-End Web Development with React through The Hong Kong University of Science and Technology with Coursera
 
 <h4 id="tools" align="center">
 🔧 Languages and Tools:
