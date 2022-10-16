@@ -38,9 +38,11 @@ I am currently working towards becoming a FrontEnd Software Engineer.
 <h4 id="progress">
 📖 Actively pursuing the following certifications: 
 </h4>
-  - Front End Developer Libraries through FreeCodeCamp
+  -   Front End Developer Libraries through FreeCodeCamp
   
   -   Front-End Web Development with React through The Hong Kong University of Science and Technology with Coursera
+  
+  -   Front End Developer Libraries through Free Code Camp
 
 <h4 id="tools" align="center">
 🔧 Languages and Tools:
