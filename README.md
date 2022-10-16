@@ -42,6 +42,9 @@ I am currently working towards becoming a FrontEnd Software Engineer.
   -   Front-End Web Development with React through The Hong Kong University of Science and Technology with Coursera
   
   -   Front End Developer Libraries through Free Code Camp
+  
+  -   Agile Project Management through Google with Coursera
+  
 
 <h4 id="tools" align="center">
 🔧 Languages and Tools:
